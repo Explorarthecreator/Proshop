@@ -2,7 +2,7 @@ const App = () => {
   return (
     <>
       <h1>
-        Welcome to ProShop me
+        Welcome to ProShop
       </h1>
     </>
   );
